@@ -1,0 +1,68 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0x2f7d1fdf297a9f65a3bd1f6ad329a9553589c66aa238c9a822d164738fcfa1cc
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xc4E6eCB90B7610b681536A1B8D458Be5bdd85f5a
+   > block number:        5
+   > block timestamp:     1629896661
+   > account:             0x7F4Be9D81ebC041fF5df6677EeCE22d573fcb525
+   > balance:             99.98183418
+   > gas used:            191943 (0x2edc7)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00383886 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00383886 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Replacing 'DaiFaucet'
+   ---------------------
+   > transaction hash:    0xc039d1bc7ece678d0a4f4bf5ab9aec240220a3ac35b6343ccd38f1778fcc0acb
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xFBBAE8ae6E779e9AD504993bc3Cc0835f6F3b09e
+   > block number:        7
+   > block timestamp:     1629896662
+   > account:             0x7F4Be9D81ebC041fF5df6677EeCE22d573fcb525
+   > balance:             99.97189284
+   > gas used:            454729 (0x6f049)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00909458 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00909458 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.01293344 ETH
+
+
